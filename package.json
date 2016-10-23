@@ -2,8 +2,13 @@
     "name": "expando-vscode",
     "displayName": "Expando",
     "description": "Create instant data snippets",
-    "version": "0.0.3",
+    "version": "0.1.0",
     "publisher": "FanieReynders",
+    "author": "Fanie Reynders",
+    "preview": "true",
+    "bugs": {
+        "url": "https://github.com/expandoco/expando-vscode/issues"
+    },
     "engines": {
         "vscode": "^1.5.0"
     },
@@ -15,10 +20,12 @@
     ],
     "main": "./out/src/extension",
     "contributes": {
-        "commands": [{
-            "command": "expando.expand",
-            "title": "Run Expando on selection"
-        }],
+        "commands": [
+            {
+                "command": "expando.expand",
+                "title": "Run Expando on selection"
+            }
+        ],
         "keybindings": [
             {
                 "command": "expando.expand",
@@ -40,6 +47,6 @@
         "@types/mocha": "^2.2.32"
     },
     "dependencies": {
-        "expando-core":">=0.0.4"
+        "expando-core": ">=0.0.4"
     }
 }
