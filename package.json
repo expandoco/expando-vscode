@@ -2,12 +2,15 @@
     "name": "expando-vscode",
     "displayName": "Expando",
     "description": "Create instant data snippets",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "publisher": "FanieReynders",
     "author": "Fanie Reynders",
     "preview": "true",
     "bugs": {
         "url": "https://github.com/expandoco/expando-vscode/issues"
+    },
+    "repository": {
+        "url": "https://github.com/expandoco/expando-vscode"
     },
     "engines": {
         "vscode": "^1.5.0"
