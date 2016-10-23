@@ -2,7 +2,7 @@
     "name": "expando-vscode",
     "displayName": "Expando",
     "description": "Create instant data snippets",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "publisher": "FanieReynders",
     "engines": {
         "vscode": "^1.5.0"
