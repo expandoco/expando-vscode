@@ -3,7 +3,7 @@
     "displayName": "Expando for Visual Studio Code",
     "description": "Create instant data snippets",
     "version": "0.0.1",
-    "publisher": "Fanie Reynders",
+    "publisher": "FanieReynders",
     "engines": {
         "vscode": "^1.5.0"
     },
