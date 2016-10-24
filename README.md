@@ -5,7 +5,7 @@
 Launch VS Code Quick Open (Ctrl+P), paste the following command, and press enter.
 
 ```
-apm install expando-vscode
+ext install expando-vscode
 ```
 
 ### Basic usage
