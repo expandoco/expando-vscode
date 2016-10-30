@@ -2,7 +2,7 @@
     "name": "expando-vscode",
     "displayName": "Expando",
     "description": "Create instant data snippets",
-    "version": "0.1.2",
+    "version": "0.1.3",
     "publisher": "FanieReynders",
     "author": "Fanie Reynders",
     "preview": "true",
@@ -50,6 +50,6 @@
         "@types/mocha": "^2.2.32"
     },
     "dependencies": {
-        "expando-core": ">=0.0.4"
+        "expando-core": ">=0.1.0"
     }
 }
