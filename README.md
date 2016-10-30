@@ -50,7 +50,7 @@ For simple arrays, use `@`
 tweet:string,tags@5
 ```
 
-The default generation is `json`, but `xml` and `csv` is also supported
+The default generation is `json`, but `xml`, `csv` and `sql` are also supported
 ```
 items:(string,int)*10=xml
 ```
