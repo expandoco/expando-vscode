@@ -2,7 +2,7 @@
     "name": "expando-vscode",
     "displayName": "Expando",
     "description": "Create instant data snippets",
-    "version": "0.1.4",
+    "version": "0.1.5",
     "publisher": "FanieReynders",
     "author": "Fanie Reynders",
     "preview": "true",
